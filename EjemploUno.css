@@ -1,0 +1,51 @@
+#h1{
+  color: #FFF;
+  text-align: center;
+  width: 35%;
+  padding: 10px;
+  margin: 15px auto;
+  border-radius: 15px;
+  font:normal 1.5em arial;
+  background:-webkit-linear-gradient(top, #00F, #0CF);
+  box-shadow: #0CF 5px 5px 10px;
+  text-shadow: #FFF 2px 2px 4px;
+
+}
+#h3{
+  font:bold 1.2em arial;
+  margin: 0px
+  padding: 5px 0px 5px 0px;
+  color: black;
+}
+
+#section{
+  width: 91%;
+  border-top: 1px dashed black;
+  margin: 15px auto;
+}
+
+figure{
+  text-align: center;
+  float: left;
+}
+
+figure img{
+  padding: 4px;
+  background: green;
+  box-shadow: green 5px 5px 10px;
+  border-radius: 10px;
+  -webkit-transition:-webkit-transform 0.5s ease-in-out 0.2s;
+
+}
+
+figure img:hover{
+  -webkit-transform: scale(1.2);
+
+}
+
+footer{
+  clear: both;
+  color: #999;
+  padding-top: 100px
+
+}

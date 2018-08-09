@@ -1,0 +1,30 @@
+/*
+#body{
+  background-color:blue;
+}
+
+#cabecera{
+  background-color:red;
+}
+*/
+
+#nav{
+  display:inline;
+  background-color:yellow;
+  float:left;
+  height: 1055px;
+
+}
+
+#div{
+  background-color: pink;
+  margin-left: 150px;
+}
+
+#cabecera{
+  background-color: blue;
+}
+
+#li{
+  display: inline;
+}
