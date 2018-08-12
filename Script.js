@@ -1,6 +1,8 @@
 function ejecuta(){
 
-documents.getElementsBy
+  /*document.getElementsByTagName("p")[0].onclick=saludo; */
+  document.getElemntsById("p").onclick=saludo;
+
 
 }
 
